@@ -1,0 +1,11 @@
+.list_item {
+    display: flex;
+}
+
+.item_text {
+    margin-left: 5px;
+}
+
+.btn_item {
+    margin-left: 5px;
+}
